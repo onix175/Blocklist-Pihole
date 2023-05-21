@@ -1,0 +1,8 @@
+# ----------------------------------------------------------
+# PI-HOLE SOCIAL BLOCKLIST: KIK
+
+0.0.0.0 api.mouseflow.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 appmetrica.yandex.ru
